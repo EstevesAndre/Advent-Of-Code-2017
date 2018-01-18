@@ -1,2 +1,2 @@
 # Advent-Of-Code-2017
-Advent of Code 2017 - Java
+Advent of Code 2017 - C++
