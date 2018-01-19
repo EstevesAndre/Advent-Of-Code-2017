@@ -6,3 +6,12 @@ src/src.vcxproj
 src/src.sln
 src/.vs/src/v14/.suo
 src/Part-1.cpp
+src/Debug/src.tlog/unsuccessfulbuild
+src/Debug/src.tlog/CL.write.1.tlog
+src/Debug/src.log
+*.tlog
+*.idb
+*.pdb
+*.ilk
+*.exe
+*.obj
